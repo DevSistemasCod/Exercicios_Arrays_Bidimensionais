@@ -1,4 +1,4 @@
-Exercicios - Arrays Bidimensionais
+# Exercicios - Arrays Bidimensionais
 
 1 - Faça um programa em Java para calcular a soma total, a soma das colunas e soma das linhas da seguinte matriz bidimensional:  int [][]matriz2D = {{1,2,3}, {4,5,6}, {7,8,9}};
 
